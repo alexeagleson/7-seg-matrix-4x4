@@ -3,7 +3,9 @@
 ## Project details
 ```
 Project uses the PIC18f4550 with Pickit3 USB controller
+
+There is a small 2MB video (mp4) included in this project you can download to see it in action.
 ```
-![alt](/KeypadVideoExample.mp4)
+
 ![alt](/KeypadExample.jpeg)
 ![alt](/KeypadConnection.png)
