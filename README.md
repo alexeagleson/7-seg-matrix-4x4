@@ -4,3 +4,5 @@
 ```
 Project uses the PIC18f4550 with Pickit3 USB controller
 ```
+![alt](/KeypadExample.jpeg)
+![alt](/KeypadConnection.png)
