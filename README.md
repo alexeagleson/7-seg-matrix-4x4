@@ -5,4 +5,4 @@
 Project uses the PIC18f4550 with Pickit3 USB controller
 ```
 
-![alt](/7-seg-matrix-4x4/KeypadConnection.png)
+![alt](/KeypadConnection.png)
